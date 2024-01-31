@@ -1,0 +1,10 @@
+.general-container{
+    padding: 5vw 5vw 0vw 5vw;
+    width: 100%;
+    z-index: 2;
+    background-color: #a4eaff;
+}
+.inputF{
+    margin:0;
+    padding:0;
+}
